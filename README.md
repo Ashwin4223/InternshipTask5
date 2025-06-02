@@ -41,7 +41,8 @@ Welcome to the Wireshark Packet Capture Exercise! This guide documents the steps
 ---
 
 ### 📑 Step 6: Review Packet Details  
-- Examine individual packet details to understand the structure and flow of the data.  
+- Examine individual packet details to understand the structure and flow of the data.
+- Export the analyse to .pcap format `File>Export Specific ports>Choose the file type>Save`.
 
 ---  
 
